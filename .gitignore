@@ -1,7 +1,4 @@
 # build
-*.js
-*.js.map
-*.d.ts
 
 # include types
 !src/types/*.d.ts
